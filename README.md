@@ -2,3 +2,4 @@ This interactive timeline game was developed for teacher professional developmen
 Graphic was designed in Canva by Jule Martínez Ruiz. 
 Please reach out if you have more questions. 
 July 16th: Added accessbility function to the game. 
+July 19th: Update image based on feedback from IN. 
